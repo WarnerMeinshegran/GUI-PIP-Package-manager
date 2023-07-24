@@ -3,3 +3,6 @@ GUI PIP manager lets you see the installed pip packages in your system, also the
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/92992442/209329734-22a92549-4917-485d-9eed-40492db17053.png)
+
+## Credits
+PySimpleGUI
